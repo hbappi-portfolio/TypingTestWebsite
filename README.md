@@ -15,7 +15,7 @@
     - HTML5 (to render UI)
     - CSS3 (to design UI)
     - Javascript (to apply dynamic functionalities)
-- Frameworks used
+- Libraies or Frameworks used
   - Bootstrap (just to make a little bit responsive)
   - Fontawesome (add some icons)
   - AES (for url link encryption [I removed aes encryption though. I will add in future])
